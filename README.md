@@ -1,7 +1,10 @@
 # test
 
-# Section Heading
+# set link
+[link1](#link1)
+
 [A link to that custom anchor](#my-custom-anchor-point)
+
 [A link to that custom anchor1](#my-custom-anchor-point1)
 
 
@@ -170,5 +173,7 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 (… more content…)Some text I want to provide a direct link to, but which doesn't have its own heading.
 
 (… more content…)
+
+## link1
 
 Some body text of this section.
