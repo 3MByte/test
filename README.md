@@ -117,7 +117,9 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 Some body text of this section.
 
-#<a name="my-custom-anchor-point1"></a>Some text I want to provide a direct link to, but which doesn't have its own heading.
+### my-custom-anchor-point1
+
+Some text I want to provide a direct link to, but which doesn't have its own heading.
 
 (… more content…)Some text I want to provide a direct link to, but which doesn't have its own heading.
 
