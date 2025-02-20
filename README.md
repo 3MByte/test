@@ -62,7 +62,7 @@
 
 Some body text of this section.
 
-### my-custom-anchor-point
+# my-custom-anchor-point
 Some text I want to provide a direct link to, but which doesn't have its own heading.
 
 
@@ -120,7 +120,7 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 Some body text of this section.
 
-### my-custom-anchor-point1
+## my-custom-anchor-point1
 
 Some text I want to provide a direct link to, but which doesn't have its own heading.
 
@@ -174,6 +174,6 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 (… more content…)
 
-## link1
+### link1
 
 Some body text of this section.
