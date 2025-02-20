@@ -59,7 +59,8 @@
 
 Some body text of this section.
 
-##<a name="my-custom-anchor-point"></a>Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+#<a name="my-custom-anchor-point"></a>Some text I want to provide a direct link to, but which doesn't have its own heading.
 
 
 (… more content…)Some text I want to provide a direct link to, but which doesn't have its own heading.
@@ -115,7 +116,8 @@ Some body text of this section.
 (… more content…)
 
 Some body text of this section.
-##<a name="my-custom-anchor-point1"></a>Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+#<a name="my-custom-anchor-point1"></a>Some text I want to provide a direct link to, but which doesn't have its own heading.
 
 (… more content…)Some text I want to provide a direct link to, but which doesn't have its own heading.
 
